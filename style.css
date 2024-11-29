@@ -1,0 +1,12 @@
+.body {background-color: #f6f8fa;}  
+.mainpicture {margin: auto;margin-left:100px;}  
+.char { color:black ;margin: auto;width:180px; white-space: nowrap; font-family:Helvetica; font-size: 10x;margin-right:170px;}
+.center {margin: auto;width:400px;margin-top:15px;}
+#contacts {color:dark;margin: auto;width:400px;margin-top:15px;margin-left: 60px;font-size: 30px;}
+.button-link {margin:auto;border-left-color: black;margin-left:170px;border-block-style:double;  border-color:mediumblue ;  }
+.about { margin:auto; margin-top:15px; white-space: nowrap ;border-style:double; }
+.char2 { margin:auto;margin-left: 20px;text-align: center;margin-top:40px; font-size: 30px;}
+.hobbylist { margin:auto; border-style:groove;margin-top:10px; border-width:10px;   margin-left: 20px; text-align: center;border-end-end-radius: 10px;border-color:lightblue;border-radius: 10px; }
+ .hobbyitem{border-style:groove;border-color:lightblue; }
+
+
